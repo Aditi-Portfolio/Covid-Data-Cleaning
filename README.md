@@ -37,6 +37,6 @@ Downloaded from: Kaggle
 The raw dataset is not included due to file size.
 
 ## Acknowledgements
-- Dataset sourced from Kaggle (Our World in Data - COVID-19)
+
 - This project was built with guidance from Claude AI (Anthropic)
 - All code written and executed by me in VS Code using Jupyter Notebook
